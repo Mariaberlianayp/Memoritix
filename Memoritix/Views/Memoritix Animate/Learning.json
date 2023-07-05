@@ -1,0 +1,141 @@
+{
+  "Lamp": {
+    "anchorPoint": "MIDDLECENTER",
+    "keyframes": {
+      "x": [],
+      "y": [
+        {
+          "id": "HRGAOoWTri5V",
+          "ms": 0,
+          "property": "y",
+          "value": 79.3359,
+          "easing": "linear",
+          "easingCurve": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        },
+        {
+          "id": "gVrSyxXY7yh5",
+          "ms": 384,
+          "property": "y",
+          "value": 100,
+          "easing": "linear",
+          "easingCurve": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        },
+        {
+          "id": "5mp68rmloe9l",
+          "ms": 686,
+          "property": "y",
+          "value": 78,
+          "easing": "linear",
+          "easingCurve": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "Head": {
+    "anchorPoint": "BOTTOMCENTER",
+    "keyframes": {
+      "rotation": [
+        {
+          "id": "1wXVXeV3QehD",
+          "ms": 0,
+          "property": "rotation",
+          "value": 0,
+          "easing": "linear",
+          "easingCurve": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        },
+        {
+          "id": "w7R2SxRBFyii",
+          "ms": 350,
+          "property": "rotation",
+          "value": -10,
+          "easing": "linear",
+          "easingCurve": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        },
+        {
+          "id": "RjJLaAUdckAN",
+          "ms": 686,
+          "property": "rotation",
+          "value": 0,
+          "easing": "linear",
+          "easingCurve": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        }
+      ]
+    }
+  },
+  "Right Arm": {
+    "anchorPoint": "BOTTOMLEFT",
+    "keyframes": {
+      "rotation": [
+        {
+          "id": "Vpp7i0z8ZFiX",
+          "ms": 0,
+          "property": "rotation",
+          "value": 0,
+          "easing": "linear",
+          "easingCurve": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        },
+        {
+          "id": "HJeyxFkruzqg",
+          "ms": 332,
+          "property": "rotation",
+          "value": -10,
+          "easing": "linear",
+          "easingCurve": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        },
+        {
+          "id": "9T9wEj5OGFPd",
+          "ms": 686,
+          "property": "rotation",
+          "value": 0,
+          "easing": "linear",
+          "easingCurve": [
+            0.42,
+            0,
+            0.58,
+            1
+          ]
+        }
+      ]
+    }
+  }
+}
